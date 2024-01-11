@@ -16,6 +16,7 @@ function sum2 (a, b, addOne) {
 const result = sum2 (2, 2, addOne)
 console.log (`After ${result}`)
 
-function sum2 (a, b, addOne) {
+
+function sum3 (a, b, addOne) {
     return (addOne (a + b));
 }
